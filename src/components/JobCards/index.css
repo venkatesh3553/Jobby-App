@@ -1,0 +1,72 @@
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.packagePerAnnum {
+  color: white;
+}
+.icon {
+  color: white;
+}
+.location {
+  color: white;
+  margin-left: 5px;
+}
+.location-type {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.card-li-list {
+  list-style-type: none;
+  background-color: #475569;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 100vh;
+}
+.logo-and-name {
+  display: flex;
+}
+.card-logo {
+  height: 40px;
+}
+.card-name {
+  font-size: 14px;
+  color: white;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 10px;
+}
+.star-card {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 0px;
+  margin-right: 10px;
+}
+.rating {
+  color: white;
+}
+.details {
+  margin-left: 10px;
+}
+.hr {
+  color: white;
+}
+.discription-name {
+  font-size: 12px;
+  color: white;
+}
+.discription {
+  color: white;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

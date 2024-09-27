@@ -1,0 +1,42 @@
+.companyLogoUrl {
+  height: 45px;
+  width: 50px;
+}
+.name-and-tating {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+}
+.rool {
+  color: white;
+}
+.rating {
+  color: #fbbf24;
+}
+.start-rating {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.img-container {
+  display: contents;
+  justify-content: center;
+  align-items: center;
+}
+.similar-card-li-list {
+  list-style-type: none;
+  background-color: #475569;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+.similor-jobs{
+  display: flex;
+  flex-wrap: wrap;
+ 
+}

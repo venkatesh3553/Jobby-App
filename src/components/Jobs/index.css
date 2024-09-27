@@ -1,0 +1,58 @@
+.jobs-container {
+}
+.search {
+  border: 1px solid #64748b;
+  border-right: 0px;
+  background-color: transparent;
+  outline: none;
+  color: white;
+  font-size: 14px;
+  padding: 10px;
+}
+.job-container {
+  background-color: #121212;
+  height: 100vh;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+}
+.check {
+  color: white;
+}
+.search-button {
+  margin-left: 0px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: #475569;
+  height: 37px;
+  width: 40px;
+  color: white;
+
+  border: 1px solid #64748b;
+  border-left: 0px;
+  outline: none;
+}
+.search-bar-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.error {
+  color: white;
+}
+.erroe-pera{
+   color: white;
+}
+
+.retry-button{
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  font-weight: 500;
+  border-width: 0px;
+  outline: 0px;
+  background-color: cornflowerblue;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.profail-cotainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 10px;
+  border: 10px;
+}
+.user-img {
+  height: 40px;
+}
+.user-name {
+  font-size: 14px;
+}
+.job-container {
+ overflow: auto;
+}

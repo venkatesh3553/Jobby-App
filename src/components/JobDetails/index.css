@@ -1,0 +1,64 @@
+.JobDetails-container {
+  background-color: #272727;
+  overflow: auto;
+  height: 100vh;
+  padding: 30px;
+}
+.visi-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.visit-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.visit-icon {
+  color: white;
+  margin-right: 5px;
+}
+.visit-name {
+  color: white;
+  font-size: 12px;
+}
+.loder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #272727;
+}
+.skill-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.skill-head {
+  font-size: 20px;
+  font-family: Roboto;
+  margin-top: 30px;
+  color: white;
+}
+.similior-discription-img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.similor-head {
+  color: white;
+  margin-top: 50px;
+}
+.similior-description {
+  color: white;
+  text-align: left;
+}
+.alldetails-card{
+  background-color: #475569;
+  padding: 20px;
+  border-radius: 10px;
+}
